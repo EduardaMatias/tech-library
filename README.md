@@ -22,7 +22,7 @@ Antes de começar, certifique-se de ter os seguintes requisitos instalados:
 
 ### 📥 Clonando o Repositório
 ```bash
-https://github.com/EduardaMatias/tech-library.git
+git clone https://github.com/EduardaMatias/tech-library.git
 ```
 
 ### 🖥️ Abrindo o Projeto no Visual Studio
