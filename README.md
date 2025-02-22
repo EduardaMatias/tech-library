@@ -45,6 +45,10 @@ https://github.com/EduardaMatias/tech-library.git
 ### 🎉 Executando o projeto
 - Para executar o projeto, pressione F5 ou clique em Iniciar na barra de ferramentas.
 
+### 🧩 Swagger
+
+![image](https://github.com/user-attachments/assets/210c7172-253c-4865-aa6f-547428f789dc)
+
 ---
 
 Feito com 💜 por <a href="https://linkedin.com/in/eduarda-matias">Eduarda Matias</a>
