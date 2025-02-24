@@ -50,5 +50,6 @@ git clone https://github.com/EduardaMatias/tech-library.git
 ![image](https://github.com/user-attachments/assets/210c7172-253c-4865-aa6f-547428f789dc)
 
 ---
-
+<p align="center">
 Feito com 💜 por <a href="https://linkedin.com/in/eduarda-matias">Eduarda Matias</a>
+</p>
